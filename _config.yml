@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Xiong"
+title                    : "Flotu EM"
 title_separator          : "-"
-name                     : &name "Hao Xiong"
-description              : &description "PhD candidate in Tsinghua University"
-url                      : https://xiongh15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Flotu Electron Microscopy Group"
+description              : &description "Advanced electron microscopy in FLOTU"
+url                      : https://flotuem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xiongh15/xiongh15.github.io"
+repository               : "flotuem/flotuem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -50,11 +50,11 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "2cec-cUBRU0VMvUqb-ndcMHLDizAUxwxnumrv1Dem6E"
+google_site_verification : ""
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-baidu_site_verification  : "code-oIYBSMnGcu"
+baidu_site_verification  : ""
 
 # Social Sharing
 twitter:
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hao Xiong"
+  name             : "FlotuEM"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at Tsinghua University, focusing on heterogeneous catalysis and advanced electron microscopy"
+  bio              : "Advanced electron miscroscopy group at Tsinghua University, focusing on heterogeneous catalysis and sub-nano scall atomi imaging"
   location         : "Beijing,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=yRWrEyUAAAAJ&hl=zh-CN"
-  email            : "xiongh19@mails.tsinghua.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Hao-Xiong-19"
+  googlescholar    : 
+  email            : 
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xiongh15"
+  github           : "flotuem"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5479-7754"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
