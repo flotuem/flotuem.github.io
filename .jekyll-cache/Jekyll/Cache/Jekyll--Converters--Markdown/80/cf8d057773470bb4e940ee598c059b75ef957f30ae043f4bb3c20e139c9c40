@@ -1,0 +1,310 @@
+I"�R<!-- _pages/publications.md -->
+
+<div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">Science</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="science.abn7667" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">In situ imaging of the sorption-induced subcell topological flexibility of a rigid zeolite framework</div>
+          <!-- Author -->
+          <div class="author">Xiong, Hao,&nbsp;Liu, Zhiqiang,&nbsp;Chen, Xiao,&nbsp;Wang, Huiqiu,&nbsp;Qian, Weizhong,&nbsp;Zhang, Chenxi,&nbsp;Zheng, Anmin,&nbsp;and Wei, Fei
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Science</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://www.science.org/doi/pdf/10.1126/science.abn7667" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/example_pdf.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>The crystallographic pore sizes of zeolites are substantially smaller than those inferred from catalytic transformation and molecular sieving capabilities, which reflects flexible variation in zeolite opening pores. Using in situ electron microscopy, we imaged the straight channels of ZSM-5 zeolite with benzene as a probe molecule and observed subcell flexibility of the framework. The opening pores stretched along the longest direction of confined benzene molecules with a maximum aspect change of 15%, and the Pnma space group symmetry of the MFI framework caused adjacent channels to deform. This compensation maintained the stability and rigidity of the overall unit cell within 0.5% deformation. The subcell flexibility originates mainly from the topologically soft silicon-oxygen-silicon hinges between rigid tetrahedral SiO4 units, with inner angles varying from 135\,^∘ to 153\,^∘, as confirmed by ab initio molecular dynamics simulations. The pores of zeolites allow for selective adsorption of molecules based on their size and shape. The pore sizes that are calculated based on their structure are smaller than what is expected from their absorption and chemical reaction properties, which implies that the frameworks must have inherent flexibility. Xiong et al. used environmental transmission electron microscopy to image the straight channels of ZSM-5 zeolite with adsorbed benzene (see the Perspective by Willhammar and Zou). The pores stretched along the longest direction of the confined benzene molecules by up to 15%. This large change was compensated for by adjacent channels so that the overall deformation of the original unit cells was less than 0.5%. —PDS Transmission electron microscopy reveals that benzene stretches channels of ZSM-5 zeolite and deforms empty adjacent channels.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="qiao2021unite" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Unite: Unitary n-body tensor equivariant network with applications to quantum chemistry</div>
+          <!-- Author -->
+          <div class="author">Qiao, Zhuoran,&nbsp;Christensen, Anders S,&nbsp;Welborn, Matthew,&nbsp;Manby, Frederick R,&nbsp;Anandkumar, Anima,&nbsp;and Miller III, Thomas F
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2105.14655</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://arxiv.org/abs/2105.14655" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doi:10.1063/5.0061990" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy</div>
+          <!-- Author -->
+          <div class="author">Christensen, Anders S.,&nbsp;Sirumalla, Sai Krishna,&nbsp;Qiao, Zhuoran,&nbsp;O’Connor, Michael B.,&nbsp;Smith, Daniel G. A.,&nbsp;Ding, Feizhi,&nbsp;Bygrave, Peter J.,&nbsp;Anandkumar, Animashree,&nbsp;Welborn, Matthew,&nbsp;Manby, Frederick R.,&nbsp;and Miller, Thomas F.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>The Journal of Chemical Physics</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Dommer2021.11.12.468428" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">#COVIDisAirborne: AI-Enabled Multiscale Computational Microscopy of Delta SARS-CoV-2 in a Respiratory Aerosol</div>
+          <!-- Author -->
+          <div class="author">Dommer, Abigail,&nbsp;Casalino, Lorenzo,&nbsp;Kearns, Fiona,&nbsp;Rosenfeld, Mia,&nbsp;Wauer, Nicholas,&nbsp;Ahn, Surl-Hee,&nbsp;Russo, John,&nbsp;Oliveira, Sofia,&nbsp;Morris, Clare,&nbsp;Bogetti, Anthony,&nbsp;Trifan, Anda,&nbsp;Brace, Alexander,&nbsp;Sztain, Terra,&nbsp;Clyde, Austin,&nbsp;Ma, Heng,&nbsp;Chennubhotla, Chakra,&nbsp;Lee, Hyungro,&nbsp;Turilli, Matteo,&nbsp;Khalid, Syma,&nbsp;Tamayo-Mendoza, Teresa,&nbsp;Welborn, Matthew,&nbsp;Christensen, Anders,&nbsp;Smith, Daniel G. A.,&nbsp;Qiao, Zhuoran,&nbsp;Sirumalla, Sai Krishna,&nbsp;O’Connor, Michael,&nbsp;Manby, Frederick,&nbsp;Anandkumar, Anima,&nbsp;Hardy, David,&nbsp;Phillips, James,&nbsp;Stern, Abraham,&nbsp;Romero, Josh,&nbsp;Clark, David,&nbsp;Dorrell, Mitchell,&nbsp;Maiden, Tom,&nbsp;Huang, Lei,&nbsp;McCalpin, John,&nbsp;Woods, Christopher,&nbsp;Gray, Alan,&nbsp;Williams, Matt,&nbsp;Barker, Bryan,&nbsp;Rajapaksha, Harinda,&nbsp;Pitts, Richard,&nbsp;Gibbs, Tom,&nbsp;Stone, John,&nbsp;Zuckerman, Daniel,&nbsp;Mulholland, Adrian,&nbsp;Miller, Thomas,&nbsp;Jha, Shantenu,&nbsp;Ramanathan, Arvind,&nbsp;Chong, Lillian,&nbsp;and Amaro, Rommie
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>bioRxiv</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>We seek to completely revise current models of airborne transmission of respiratory viruses by providing never-before-seen atomic-level views of the SARS-CoV-2 virus within a respiratory aerosol. Our work dramatically extends the capabilities of multiscale computational microscopy to address the significant gaps that exist in current experimental methods, which are limited in their ability to interrogate aerosols at the atomic/molecular level and thus ob-scure our understanding of airborne transmission. We demonstrate how our integrated data-driven platform provides a new way of exploring the composition, structure, and dynamics of aerosols and aerosolized viruses, while driving simulation method development along several important axes. We present a series of initial scientific discoveries for the SARS-CoV-2 Delta variant, noting that the full scientific impact of this work has yet to be realized.ACM Reference Format Abigail Dommer1\textdagger, Lorenzo Casalino1\textdagger, Fiona Kearns1\textdagger, Mia Rosenfeld1, Nicholas Wauer1, Surl-Hee Ahn1, John Russo,2 Sofia Oliveira3, Clare Morris1, AnthonyBogetti4, AndaTrifan5,6, Alexander Brace5,7, TerraSztain1,8, Austin Clyde5,7, Heng Ma5, Chakra Chennubhotla4, Hyungro Lee9, Matteo Turilli9, Syma Khalid10, Teresa Tamayo-Mendoza11, Matthew Welborn11, Anders Christensen11, Daniel G. A. Smith11, Zhuoran Qiao12, Sai Krishna Sirumalla11, Michael O’Connor11, Frederick Manby11, Anima Anandkumar12,13, David Hardy6, James Phillips6, Abraham Stern13, Josh Romero13, David Clark13, Mitchell Dorrell14, Tom Maiden14, Lei Huang15, John McCalpin15, Christo- pherWoods3, Alan Gray13, MattWilliams3, Bryan Barker16, HarindaRajapaksha16, Richard Pitts16, Tom Gibbs13, John Stone6, Daniel Zuckerman2*, Adrian Mulholland3*, Thomas MillerIII11,12*, ShantenuJha9*, Arvind Ramanathan5*, Lillian Chong4*, Rommie Amaro1*. 2021. #COVIDisAirborne: AI-Enabled Multiscale Computational Microscopy ofDeltaSARS-CoV-2 in a Respiratory Aerosol. In Supercomputing ‘21: International Conference for High Perfor-mance Computing, Networking, Storage, and Analysis. ACM, New York, NY, USA, 14 pages. https://doi.org/finalDOICompeting Interest StatementThe authors have declared no competing interest.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">2020multi</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="qiao2020multi" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Multi-task learning for electronic structure to predict and explore molecular potential energy surfaces</div>
+          <!-- Author -->
+          <div class="author">Qiao, Zhuoran,&nbsp;Ding, Feizhi,&nbsp;Welborn, Matthew,&nbsp;Bygrave, Peter J,&nbsp;Anandkumar, Animashree,&nbsp;Manby, Frederick R,&nbsp;and Miller III, Thomas F
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2011.02680</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://arxiv.org/abs/2011.02680" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>We refine the OrbNet model to accurately predict energy, forces, and other response properties for molecules using a graph neural-network architecture based on features from low-cost approximated quantum operators in the symmetry-adapted atomic orbital basis. The model is end-to-end differentiable due to the derivation of analytic gradients for all electronic structure terms, and is shown to be transferable across chemical space due to the use of domain-specific features. The learning efficiency is improved by incorporating physically motivated constraints on the electronic structure through multi-task learning. The model outperforms existing methods on energy prediction tasks for the QM9 dataset and for molecular geometry optimizations on conformer datasets, at a computational cost that is thousand-fold or more reduced compared to conventional quantum-chemistry calculations (such as density functional theory) that offer similar accuracy.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">2020orbnet</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="qiao2020orbnet" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">OrbNet: Deep learning for quantum chemistry using symmetry-adapted atomic-orbital features</div>
+          <!-- Author -->
+          <div class="author">Qiao, Zhuoran,&nbsp;Welborn, Matthew,&nbsp;Anandkumar, Animashree,&nbsp;Manby, Frederick R,&nbsp;and Miller III, Thomas F
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>The Journal of Chemical Physics</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://aip.scitation.org/doi/full/10.1063/5.0021955" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>We introduce a machine learning method in which energy solutions from the Schrödinger equation are predicted using symmetry adapted atomic orbital features and a graph neural-network architecture. OrbNet is shown to outperform existing methods in terms of learning efficiency and transferability for the prediction of density functional theory results while employing low-cost features that are obtained from semi-empirical electronic structure calculations. For applications to datasets of drug-like molecules, including QM7b-T, QM9, GDB-13-T, DrugBank, and the conformer benchmark dataset of Folmsbee and Hutchison [Int. J. Quantum Chem. (published online) (2020)], OrbNet predicts energies within chemical accuracy of density functional theory at a computational cost that is 1000-fold or more reduced.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="miller2020systems" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Systems and Methods for Determining Molecular Structures with Molecular-Orbital-Based Features</div>
+          <!-- Author -->
+          <div class="author">Miller, Thomas F,&nbsp;Welborn, Matthew G,&nbsp;Cheng, Lixue,&nbsp;Husch, Tamara,&nbsp;Song, Jialin,&nbsp;Kovachki, Nikola,&nbsp;Burov, Dmitry,&nbsp;Teh, Ying Shi,&nbsp;Anandkumar, Anima,&nbsp;Ding, Feizhi,&nbsp;Lee, Sebastian,&nbsp;Qiao, Zhuoran,&nbsp;and Lale, Ali Sahin
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">2019ice</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="qiao2019ice" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Ice nucleation of confined monolayer water conforms to classical nucleation theory</div>
+          <!-- Author -->
+          <div class="author">Qiao, Zhuoran,&nbsp;Zhao, Yuheng,&nbsp;and Gao, Yi Qin
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>The journal of physical chemistry letters</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b01169" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>We confirmed that monolayer water confined by parallel graphene sheets spontaneously crystallizes from a structurally and dynamically heterogeneous liquid phase under moderate supercooling via direct molecular dynamics simulation. Square-lattice-like geometric order is observed at the early stage of nucleation and is preserved during the entire nucleus growth process. The diffusion coefficient and free energy profile in the cluster space extracted from a Bayesian trajectory analysis agree well with the classical nucleation theory (CNT) prediction and yield thermodynamic quantities exhibiting linear temperature dependence. The effectiveness of maximum cluster size as the descriptor of ice nucleation dynamics in the CNT framework can be attributed to the dynamical time scale decoupling and strong structural pattern dependence of density fluctuation in the liquid phase.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="cai2019structure" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Structure of water confined between two parallel graphene plates</div>
+          <!-- Author -->
+          <div class="author">Cai, Xiaoxia,&nbsp;Xie, Wen Jun,&nbsp;Yang, Ying,&nbsp;Long, Zhuoran,&nbsp;Zhang, Jun,&nbsp;Qiao, Zhuoran,&nbsp;Yang, Lijiang,&nbsp;and Gao, Yi Qin
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>The Journal of chemical physics</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://aip.scitation.org/doi/full/10.1063/1.5080788" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>We study, in this paper, the physical properties of water confined between two parallel graphene plates with different slit widths to understand the effects of confinement on the water structure and how bulk properties are reached as the water layer thickens. It was found that the microscopic structures of the interfacial liquid layer close to graphene vary with the slit width. Water tends to locate at the center of the six-membered ring of graphene planes to form triangular patterns, as found by others. The narrower the slit width is, the more pronounced this pattern is, except for the slit width of 9.5 Å, for which a well-defined two-layer structure of water forms. On the other hand, squared structures can be clearly seen in single snapshots at small (6.5 Å and 7.5 Å) but not large slit widths. Even at small slit widths, the square-like geometry is observed only when an average is taken for a short trajectory, and averaging over a long time yields a triangular pattern dictated by the graphene geometry. We estimate the length of time needed to observe two patterns, respectively. We also used the two-phase thermodynamic model to study the variation of entropy of confined water and found that at 8.5 Å, the entropy of confined water is larger than that of bulk water. The rotational entropy of confined water is higher than that of bulk water for all slit widths due to the reduction of the hydrogen bond in the confined space.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="qiao2019interlayer" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Interlayer hopping dynamics of bilayer water confined between graphene sheets</div>
+          <!-- Author -->
+          <div class="author">Qiao, Zhuoran,&nbsp;Xie, Wen Jun,&nbsp;Cai, Xiaoxia,&nbsp;and Gao, Yi Qin
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Chemical Physics Letters</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0009261419301708" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>The ubiquitous existence of water confined in nano-capillaries is key to fundamental biological and technological applications. Using molecular dynamics simulations, we analyzed the hopping-like interlayer relocation dynamics of bilayer water confined between two parallel graphene sheets. In contrary to the common scheme that relocation is driven by density fluctuations, analysis of the transition path ensemble revealed that interlayer hopping is induced by local hydrogen bond configuration fluctuations coupled with activated consecutive transient angular reorientations. Our results consolidated the anisotropic nature of water relocation under strong ordering, which provided a mechanistic insight into the relaxation behavior at glass-forming water’s fragile-to-strong crossover.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET
