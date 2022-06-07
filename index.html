@@ -1,0 +1,327 @@
+---
+layout: default
+title: Home
+---
+<!-- ========== BIO ========== -->
+<div class="docs-section" id="bio">
+  <h4>Bio</h4>
+  <p>
+  Howdy! I am currently a 1st year Master student (MCS) in the Department of Computer Science & Engineering, 
+  Texas A&M University. My advisor is <a href="http://people.tamu.edu/~sji/" target="_blank">Prof. Shuiwang Ji</a>, 
+  who leads the Data Integration, Visualization, and Exploration (DIVE) Laboratory.  
+  I obtained my bachelor’s degree from the Department of Computer Science and Technology, University of Science and Technology of China 
+  in 2020.
+  </p>
+  
+  <p>
+  My major focus on algorithms and machine learning. 
+  Specifically, I am familiar with (1) software building and algorithms, and 
+  (2) machine learning algorithms for graph data (Graph-Neural-Network).
+  </p>
+</div>
+
+
+
+
+<!-- ========== NEWS ========== -->
+<!-- <div class="docs-section" id="news"> -->
+  <!-- <h4>News</h4> -->
+  <!-- <ul> -->
+    <!-- {% for nw in site.data.news.news %} -->
+    <!-- <a class="navbar-link" href={{ "/index.html#bio" | prepend: site.baseurl }}>Bio</a> -->
+
+    <!-- <div class="row"><div class="twop columns"><b>{{ nw.date }}</b></div> <div class="ten columns">{{ nw.title }} <i>{{ nw.subtitle }}</i></div></div> -->
+    <!-- {% endfor %} -->
+  <!-- </ul> -->
+<!-- </div> -->
+
+<!-- ========== PUBLICATIONS ========== -->
+<div class="docs-section" id="publications">
+  <h4>Publications [<a href="{{ site.data.main_info.googlescholar }}" target="_blank">Google Scholar</a>]</h4>
+
+<!--   <p>Most recent publications on <a href="{{ site.data.main_info.googlescholar }}" target="_blank">Google Scholar</a>.<br/> -->
+  * indicates equal contribution.</p>
+
+  <!--
+  <ul class="tab-nav">
+    <li><div class="button active" data-ref="#papers-selected">Selected</div></li>
+    <li><div class="button" data-ref="#papers-all">All</div></li>
+  </ul>
+
+  <div class="tab-content">
+    <div class="tab-pane active" id="papers-selected">
+      {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
+      {% for paper in selected_papers %}
+        <div class="paper">
+          <p class="title"><b>{{ paper.title }}</b></p>
+          <p>{{ paper.authors }}</p>
+          <p><i>{{ paper.venue }}</i></p>
+           <div class="paper-buttons">
+            {% if paper.paper_pdf %}
+              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+            {% endif %}
+
+            {% if paper.slides %}
+              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+            {% endif %}
+
+            {% if paper.poster %}
+              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+            {% endif %}
+
+            {% if paper.UKSPNg %}
+              <a class="button" href="{{ paper.UKSPNg | prepend: site.baseurl }}" target="_blank">UKSP Nugget</a>
+            {% endif %}
+
+            {% if paper.blogpost %}
+              <a class="button" href="{{ paper.blogpost | prepend: site.baseurl }}" target="_blank">Blog post</a>
+            {% endif %}
+
+            {% if paper.video %}
+              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+            {% endif %}
+
+            {% if paper.notebook %}
+              <a class="button" href="{{ paper.notebook }}" target="_blank">Python Notebook</a>
+            {% endif %}
+
+            {% if paper.repo %}
+              <a class="button" href="{{ paper.repo }}" target="_blank">Repo</a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="tab-pane" id="papers-all"> -->
+<!--       {% for paper in site.data.publications.papers %}
+        <div class="paper">
+          <p class="title"><b>{{ paper.title }}</b></p>
+          <p>{{ paper.authors }}</p>
+          <p><i>{{ paper.venue }}</i></p>
+           <div class="paper-buttons">
+            {% if paper.preprint %}
+              <a class="button" href="{{ paper.preprint | prepend: site.baseurl }}" target="_blank">Preprint</a>
+            {% endif %}
+
+            {% if paper.paper_pdf %}
+              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+            {% endif %}
+
+            {% if paper.workshop_website %}
+              <a class="button" href="{{ paper.workshop_website | prepend: site.baseurl }}" target="_blank">Workshop Website</a>
+            {% endif %}
+
+
+            {% if paper.code %}
+              <a class="button" href="{{ paper.code | prepend: site.baseurl }}" target="_blank">Code</a>
+            {% endif %}
+
+            {% if paper.slides %}
+              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+            {% endif %}
+
+            {% if paper.poster %}
+              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+            {% endif %}
+
+            {% if paper.UKSPNg %}
+              <a class="button" href="{{ paper.UKSPNg | prepend: site.baseurl }}" target="_blank">UKSP Nugget</a>
+            {% endif %}
+
+            {% if paper.blogpost %}
+              <a class="button" href="{{ paper.blogpost | prepend: site.baseurl }}" target="_blank">Blog post</a>
+            {% endif %}
+
+            {% if paper.pressrel %}
+              <a class="button" href="{{ paper.pressrel | prepend: site.baseurl }}" target="_blank">Press Coverage</a>
+            {% endif %}
+
+            {% if paper.video %}
+              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+            {% endif %}
+
+            {% if paper.notebook %}
+              <a class="button" href="{{ paper.notebook }}" target="_blank">Python Notebook</a>
+            {% endif %}
+
+            {% if paper.data %}
+              <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+            {% endif %}
+             
+            {% if paper.literature_collection %}
+              <a class="button" href="{{ paper.literature_collection }}" target="_blank">Literature collection</a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %} -->
+        {% for paper in site.data.publications.papers %}
+        <div class="paper">
+          <div class="row">
+            <div class="four columns">
+              <div class="figure">
+                <img src='{{ site.baseurl }}{{ paper.img }}' width="100%">
+              </div>
+            </div>
+            <div class="eight columns">
+<!--               <div class="vertical-center"> -->
+                <p class="title"><b>{{ paper.title }}</b></p>
+                <p>{{ paper.authors }}</p>
+                <p><i>{{ paper.venue }}</i></p>
+                {% if paper.note %}
+                  <p><b>{{ paper.note }}</b></p>
+                {% endif %}
+                 <div class="paper-buttons">
+                  {% if paper.preprint %}
+                    <a class="button" href="{{ paper.preprint | prepend: site.baseurl }}" target="_blank">Preprint</a>
+                  {% endif %}
+
+                  {% if paper.paper_pdf %}
+                    <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+                  {% endif %}
+
+
+                  {% if paper.code %}
+                    <a class="button" href="{{ paper.code | prepend: site.baseurl }}" target="_blank">Code</a>
+                  {% endif %}
+                   
+                  {% if paper.code_star %}
+                    <img src='{{ site.baseurl }}{{ paper.code_star }}' height="20%" >
+                  {% endif %}
+                   
+                  {% if paper.documentation %}
+                    <a class="button" href="{{ paper.documentation | prepend: site.baseurl }}" target="_blank">Documentation</a>
+                  {% endif %}
+
+                  {% if paper.slides %}
+                    <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+                  {% endif %}
+
+                  {% if paper.poster %}
+                    <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+                  {% endif %}
+                   
+                  {% if paper.supplement %}
+                    <a class="button" href="{{ paper.supplement | prepend: site.baseurl }}" target="_blank">Supplement</a>
+                  {% endif %}
+
+                  {% if paper.UKSPNg %}
+                    <a class="button" href="{{ paper.UKSPNg | prepend: site.baseurl }}" target="_blank">UKSP Nugget</a>
+                  {% endif %}
+
+                  {% if paper.blogpost %}
+                    <a class="button" href="{{ paper.blogpost | prepend: site.baseurl }}" target="_blank">Blog post</a>
+                  {% endif %}
+
+                  {% if paper.pressrel %}
+                    <a class="button" href="{{ paper.pressrel | prepend: site.baseurl }}" target="_blank">Press Coverage</a>
+                  {% endif %}
+
+                  {% if paper.video %}
+                    <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+                  {% endif %}
+
+                  {% if paper.notebook %}
+                    <a class="button" href="{{ paper.notebook }}" target="_blank">Python Notebook</a>
+                  {% endif %}
+
+                  {% if paper.data %}
+                    <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+                  {% endif %}
+
+                  {% if paper.literature_collection %}
+                    <a class="button" href="{{ paper.literature_collection }}" target="_blank">Paper collection</a>
+                  {% endif %}
+                   
+                  {% if paper.literature_collection_star %}
+                    <img src='{{ site.baseurl }}{{ paper.literature_collection_star }}' height="20%" >
+                  {% endif %}
+                   
+
+                </div>
+<!--               </div> -->
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+<!--    </div>
+  </div> -->
+</div>
+
+
+<!-- ========== Projects ========== -->
+<div class="docs-section" id="projects">
+<h4>Projects</h4>
+  {% for pro in site.data.projects.projects %}
+    <div class="project">
+      <div class="row">
+        <div class="two columns">
+          <div class="figure">
+            <img src='{{ site.baseurl }}{{ pro.img }}' width="100%">
+          </div>
+        </div>
+        <div class="ten columns">
+          <span class="name", style="font-size: large;"><b>{{ pro.name }}</b></span>
+          {% if pro.link %}
+            <span><i><a href="{{pro.link}}"><b>Link</b></a></i></span>
+          {% endif %}
+          {% if pro.github_stars %}
+            <img src='{{ site.baseurl }}{{ pro.github_stars }}' height="20%" >
+          {% endif %}
+          {% if pro.description_1 %}
+            <div style="font-size: 10pt;">1. {{ pro.description_1 }}</div>
+          {% endif %}
+          {% if pro.description_2 %}
+            <div style="font-size: 10pt;">2. {{ pro.description_2 }}</div>
+          {% endif %}
+          {% if pro.description_3 %}
+            <div style="font-size: 10pt;">3. {{ pro.description_3 }}</div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    <br/>
+  {% endfor %}
+</div>
+
+<!-- ========== Services ========== -->
+<!-- <div class="docs-section" id="services"> -->
+  <!-- <h4>Services</h4> -->
+  <!-- <h5>Program Committee Member & Reviewer</h5> -->
+    <!-- {% for sv in site.data.services.services %} -->
+      <!-- <div class="paper"> -->
+      <!-- <p class="title">{{ sv.venue }} <i style="float:right;"> {{ sv.year }}</i></p> -->
+      <!-- </div> -->
+    <!-- {% endfor %} -->
+  <!-- </ul> -->
+<!-- </div> -->
+
+
+<!-- ========== reusme ========== -->
+<div class="docs-section" id="resume">
+  <h4>Résumé</h4>
+    <p>My résumé is available <a href={{ "/assets/Jingtun_CV_122021.pdf" | prepend: site.baseurl }} target="_blank">here [PDF]</a>.</p>
+
+  <!-- The Timeline -->
+  <ul class="timeline">
+    {% for exp in site.data.experience.experiences %}
+    <li>
+      {% if exp.category == "work" %}
+      <div class="direction-l">
+      {% else %}
+      <div class="direction-r">
+      {% endif %}
+        <div class="flag-wrapper">
+          <div class="flag">{{ exp.place }}</div>
+          <br/>
+          <div class="time-wrapper">
+            <span class="time">{{ exp.time }}</span>
+          </div>
+        </div>
+        <div class="desc"><b>{{ exp.title }}</b> <br/> {{ exp.subtitle }}</div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
