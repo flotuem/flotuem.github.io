@@ -1,0 +1,13 @@
+prefix=/Users/xionghao/Desktop/flotuem/flotuem.github.io/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.13.6/ports/arm64-darwin21/libxslt/1.1.35
+exec_prefix=${prefix}
+libdir=/Users/xionghao/Desktop/flotuem/flotuem.github.io/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.13.6/ports/arm64-darwin21/libxslt/1.1.35/lib
+includedir=${prefix}/include
+
+
+Name: libexslt
+Version: 0.8.20
+Description: EXSLT Extension library
+Requires: libxml-2.0, libxslt
+Cflags: -I${includedir}
+Libs: -L${libdir} -lexslt
+Libs.private:  
