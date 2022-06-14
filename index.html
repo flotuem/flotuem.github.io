@@ -21,8 +21,6 @@ title: Home
 </div>
 
 
-
-
 <!-- ========== NEWS ========== -->
 <!-- <div class="docs-section" id="news"> -->
   <!-- <h4>News</h4> -->
@@ -249,40 +247,7 @@ title: Home
 </div>
 
 
-<!-- ========== Projects ========== -->
-<div class="docs-section" id="projects">
-<h4>Projects</h4>
-  {% for pro in site.data.projects.projects %}
-    <div class="project">
-      <div class="row">
-        <div class="two columns">
-          <div class="figure">
-            <img src='{{ site.baseurl }}{{ pro.img }}' width="100%">
-          </div>
-        </div>
-        <div class="ten columns">
-          <span class="name", style="font-size: large;"><b>{{ pro.name }}</b></span>
-          {% if pro.link %}
-            <span><i><a href="{{pro.link}}"><b>Link</b></a></i></span>
-          {% endif %}
-          {% if pro.github_stars %}
-            <img src='{{ site.baseurl }}{{ pro.github_stars }}' height="20%" >
-          {% endif %}
-          {% if pro.description_1 %}
-            <div style="font-size: 10pt;">1. {{ pro.description_1 }}</div>
-          {% endif %}
-          {% if pro.description_2 %}
-            <div style="font-size: 10pt;">2. {{ pro.description_2 }}</div>
-          {% endif %}
-          {% if pro.description_3 %}
-            <div style="font-size: 10pt;">3. {{ pro.description_3 }}</div>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-    <br/>
-  {% endfor %}
-</div>
+
 
 <!-- ========== Services ========== -->
 <!-- <div class="docs-section" id="services"> -->
@@ -300,7 +265,7 @@ title: Home
 <!-- ========== reusme ========== -->
 <div class="docs-section" id="resume">
   <h4>Résumé</h4>
-    <p>My résumé is available <a href={{ "/assets/Jingtun_CV_122021.pdf" | prepend: site.baseurl }} target="_blank">here [PDF]</a>.</p>
+    <p>My résumé is available <a href={{ "/assets/XiongHao_CV_220614.pdf" | prepend: site.baseurl }} target="_blank">here [PDF]</a>.</p>
 
   <!-- The Timeline -->
   <ul class="timeline">
